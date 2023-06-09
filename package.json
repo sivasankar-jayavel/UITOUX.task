@@ -1,0 +1,29 @@
+{
+  "name": "uitoux.task",
+  "version": "1.0.0",
+  "description": "car spare using MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon Server/server.js ",
+    "dev": "set NODE_ENV=development&&nodemon Server/server.js",
+    "prod": "set NODE_ENV=production&&nodemon Server/server.js",
+    "seeder": "node server/utils/seeder.js"
+  },
+  "author": "SIVASANKAR J",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.1",
+    "validator": "^13.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}

@@ -1,0 +1,181 @@
+[
+    {
+        "name" : "12-Stroke Engine With a Power of 1991 hp",
+        "price" : 45790.00,
+        "description" : "It's a Fantastic 12-Stroke Engine with High Performance",
+        "ratings" : "3",
+        "images" : [
+            {
+                "image" : "/images/products/product-6.jpeg"
+            },
+            {
+                "image" : "/images/products/product-12.jpeg"
+            }
+        ],
+        "catagory" : "Exteriors spares",
+        "seller" : "UITOUX",
+        "stock" : 10,
+        "numOfReviews" : 29,
+        "reviews" : []    
+    },
+    {
+        "name" : "Twin Exhaust Pipe",
+        "price" : 8945.00,
+        "description" : "Sound of Exhaust is like Thundering ",
+        "ratings" : "4",
+        "images" : [
+            {
+                "image" : "/images/products/product-2.jpeg"
+            }
+        ],
+        "catagory" : "Exteriors spares",
+        "seller" : "UITOUX",
+        "stock" : 15,
+        "numOfReviews" : 32,
+        "reviews" : []       
+    },
+    {
+        "name" : "Glossy Gray 19' aluminium wheel",
+        "price" : 12560.00,
+        "description" : "It's a nice aluminium alloy wheel",
+        "ratings" : "4.5",
+        "images" : [
+            {
+                "image" : "/images/products/product-1.jpeg"
+            }
+        ],
+        "catagory" : "Exteriors spares",
+        "seller" : "UITOUX",
+        "stock" : 30,
+        "numOfReviews" : 10,
+        "reviews" : []       
+    },
+    {
+        "name" : "Engine Oil",
+        "price" : 1640.00,
+        "description" : "Level 5 Motor oil fully synthetic",
+        "ratings" : "4",
+        "images" : [
+            {
+                "image" : "/images/products/product-3.jpeg"
+            }
+        ],
+        "catagory" : "Liquids",
+        "seller" : "UITOUX",
+        "stock" : 40,
+        "numOfReviews" : 50,
+        "reviews" : []     
+    },
+    {
+        "name" : "Clutch Discs",
+        "price" : 3789.00,
+        "description" : "Its a Brandix Clutch Disc in Z175 series",
+        "ratings" : "3",
+        "images" : [
+            {
+                "image" : "/images/products/product-5.jpeg"
+            }
+        ],
+        "catagory" : "Interiors spares",
+        "seller" : "UITOUX",
+        "stock" : 60,
+        "numOfReviews" : 41,
+        "reviews" : []      
+    },
+    {
+        "name" : "Tyres",
+        "price" : 28234.00,
+        "description" : "Set of Four 19 inch Spiked Tyres",
+        "ratings" : "4",
+        "images" : [
+            {
+                "image" : "/images/products/product-7.jpeg"
+            }
+        ],
+        "catagory" : "Service",
+        "seller" : "UITOUX",
+        "stock" : 53,
+        "numOfReviews" : 67,
+        "reviews" : []      
+    },
+    {
+        "name" : "Low Beam Lamp",
+        "price" : 300.00,
+        "description" : "40 Megawatt Low Beam Lamp",
+        "ratings" : "4",
+        "images" : [
+            {
+                "image" : "/images/products/product-8.jpeg"
+            }
+        ],
+        "catagory" : "Interiors spares",
+        "seller" : "UITOUX",
+        "stock" : 60,
+        "numOfReviews" : 78,
+        "reviews" : []       
+    },
+    {
+        "name" : "GearBox",
+        "price" : 6452.00,
+        "description" : "Brandix Manual Five Speed Gearbox",
+        "ratings" : "4",
+        "images" : [
+            {
+                "image" : "/images/products/product-9.jpeg"
+            }
+        ],
+        "catagory" : "Interiors spares",
+        "seller" : "UITOUX",
+        "stock" : 18,
+        "numOfReviews" : 20,
+        "reviews" : []       
+    },
+    {
+        "name" : "Floor Mats",
+        "price" : 1800.00,
+        "description" : "Set of Car Floor Mats Brandix Z4 series",
+        "ratings" : "4",
+        "images" : [
+            {
+                "image" : "/images/products/product-10.jpeg"
+            }
+        ],
+        "catagory" : "Interiors spares",
+        "seller" : "UITOUX",
+        "stock" : 38,
+        "numOfReviews" : 44,
+        "reviews" : []     
+    },
+    {
+        "name" : "Tail Lights",
+        "price" : 2379.00,
+        "description" : "Red and White combined Tail Lights In Brandix Z54 Series",
+        "ratings" : "2",
+        "images" : [
+            {
+                "image" : "/images/products/product-11.jpeg"
+            }
+        ],
+        "catagory" : "Exteriors spares",
+        "seller" : "UITOUX",
+        "stock" : 18,
+        "numOfReviews" : 8,
+        "reviews" : []       
+    },
+    {
+        "name" : "Engine Block Z4",
+        "price" : 18956.00,
+        "description" : "Brandix Engine Block Z4 series with High Speed",
+        "ratings" : "3",
+        "images" : [
+            {
+                "image" : "/images/products/product-12.jpeg"
+            }
+        ],
+        "catagory" : "Service",
+        "seller" : "UITOUX",
+        "stock" : 40,
+        "numOfReviews" : 26,
+        "reviews" : []       
+    }
+]
